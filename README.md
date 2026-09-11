@@ -72,7 +72,7 @@ source("credit_debt_regression.R")
 ```
 ## Acknowledgments
 
-This project was completed collaboratively with a project partner as part of a statistics course at Villanova University. My contributions included model selection, diagnostic testing, and interpretation of results.
+This project was completed collaboratively with 2 project partners as part of a statistics course at Villanova University. My contributions included model selection, diagnostic testing, and interpretation of results.
 
 ## Author
 
