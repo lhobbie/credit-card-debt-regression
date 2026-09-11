@@ -77,6 +77,5 @@ This project was completed collaboratively with a project partner as part of a s
 ## Author
 
 **Luke Hobbie**  
-
-Villanova University
+Villanova University   
 [LinkedIn](https://www.linkedin.com/in/luke-hobbie/) | [Portfolio](https://lhobbie.github.io/portfolio/)
