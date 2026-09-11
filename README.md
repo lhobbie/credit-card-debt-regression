@@ -70,3 +70,12 @@ install.packages("car")
 ```r
 source("credit_debt_regression.R")
 ```
+## Acknowledgments
+
+This project was completed collaboratively with a project partner as part of a statistics course at Villanova University. My contributions included model selection, diagnostic testing, and interpretation of results.
+
+## Author
+
+**Luke Hobbie**  
+Villanova University
+[LinkedIn](https://www.linkedin.com/in/luke-hobbie/) | [Portfolio](https://lhobbie.github.io/portfolio/)
